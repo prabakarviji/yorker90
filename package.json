@@ -1,0 +1,47 @@
+{
+  "name": "yorker-react-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "4.3.2",
+    "@material-ui/icons": "4.2.1",
+    "axios": "^0.19.0",
+    "chartist": "0.10.1",
+    "classnames": "2.2.6",
+    "formik": "^2.0.4",
+    "history": "4.9.0",
+    "mobx": "^5.15.0",
+    "mobx-react": "^6.1.4",
+    "mobx-react-devtools": "^6.1.1",
+    "perfect-scrollbar": "1.4.0",
+    "prop-types": "15.7.2",
+    "react": "^16.11.0",
+    "react-chartist": "0.13.3",
+    "react-dom": "^16.11.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "react-swipeable-views": "0.13.3",
+    "yup": "^0.27.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
